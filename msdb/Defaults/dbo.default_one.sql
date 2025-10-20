@@ -1,0 +1,4 @@
+SET QUOTED_IDENTIFIER OFF
+GO
+CREATE DEFAULT [dbo].[default_one] AS 1
+GO
